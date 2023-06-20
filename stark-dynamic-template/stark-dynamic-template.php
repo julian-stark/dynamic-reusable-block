@@ -3,7 +3,7 @@
  * Plugin Name: Stark Dynamic Template
  * Plugin URI: https://julianstark.de/
  * Description: Stark Dynamic Template
- * Version: 2023.06.19.1
+ * Version: 2023.06.20.1
  * Author: Julian Stark
  */
 
